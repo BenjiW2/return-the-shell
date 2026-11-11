@@ -12,6 +12,7 @@ Open `index.html` in a browser. No build step.
 - `css/style.css`: layout and type
 - `js/scene.js`: the illustrated tidal-flat scene (canvas)
 - `js/app.js`: scroll engine, satellite map, slider and tabs
+- `assets/`: the photographs and engravings the scene is built from, all public domain or CC0. Each one is credited under "Pictures" at the end of the story.
 
 The satellite map (MapLibre with Esri World Imagery) and fonts load from the web. Offline, map steps fall back to the illustration.
 
